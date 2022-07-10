@@ -147,7 +147,7 @@ footer {
     opacity: 80%;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 900px) {
     html {
         font-size: 24px;
     }
