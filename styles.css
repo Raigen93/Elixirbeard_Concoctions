@@ -151,8 +151,14 @@ footer {
     body {
         font-size: 1.5em;
     }
+    .container {
+        min-width: 50%
+    }       
     .container img {
         max-width: 70%;
+    }
+    #services .container {
+        max-width: 50%;
     }
     #about_us .container {
         flex-direction: column;
