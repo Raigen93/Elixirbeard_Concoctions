@@ -147,7 +147,7 @@ footer {
     opacity: 80%;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
     header {
         font-size: 2.5em;
     body {
