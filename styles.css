@@ -146,8 +146,15 @@ footer {
     opacity: 80%;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1000px) {
     body {
-        font-size: 3em;
+        font-size: 1.5em;
+    }
+    .container img {
+        max-width: 70%;
+    }
+    #about_us .container {
+        flex-direction: column;
+        text-indent: 1rem;
     }
 }
