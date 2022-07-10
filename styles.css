@@ -166,4 +166,7 @@ footer {
         flex-direction: column;
         text-indent: 1rem;
     }
+    footer {
+        font-size: 2em;
+        }
 }
