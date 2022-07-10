@@ -67,7 +67,7 @@ header {
 }
 
 #services h3 {
-    font-size: 0.8rem;
+    font-size: 1rem;
 }
 
 #services .container {
@@ -149,7 +149,7 @@ footer {
 
 @media only screen and (max-width: 1200px) {
     html {
-        font-size: 24px;
+        font-size: 30px;
     }
     .container {
         min-width: 80%
