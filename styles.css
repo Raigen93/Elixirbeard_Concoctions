@@ -38,6 +38,7 @@ header {
     max-width: 30rem;
     margin-top: 3rem;
     align-items: center;
+    min-width: 300px;
 }
 
 #greeting_text {
