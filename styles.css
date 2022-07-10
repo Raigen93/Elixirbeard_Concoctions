@@ -152,7 +152,8 @@ footer {
         font-size: 1.5rem;
     }
     .container {
-        min-width: 60%
+        min-width: 80%
+       
     }       
     .container img {
         max-width: 70%;
