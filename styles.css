@@ -149,11 +149,11 @@ footer {
 
 @media only screen and (max-width: 1000px) {
      p, h2, h3, h5, header, footer{
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     .container {
         min-width: 80%
-       
+        height: auto;
     }       
     .container img {
         max-width: 70%;
